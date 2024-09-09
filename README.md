@@ -17,7 +17,7 @@ we will release the code in December ~
 
 ## Demo Video
 
-[A demonstration of annotation an Aortic Dissection case](https://youtu.be/kt1WN5BciVg)
+[A demonstration of annotation an Aortic Dissection case](https://www.youtube.com/watch?v=R3Fzgl1b4JQ)
 
 
 ## License
