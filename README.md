@@ -22,4 +22,4 @@ we will release the code in December ~
 
 ## License
 
-The models are licensed under the [Apache 2.0 license](./LICENSE). Please refer to our research paper for more details on the models.
+The models are licensed under the [Apache 2.0 license](./LICENSE).
