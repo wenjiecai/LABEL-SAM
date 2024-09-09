@@ -13,5 +13,13 @@ we will release the code in December ~
 
 ![](/figs/interface.png)
 
-** LABEL-SAM ** is a Annotation model towards solving Aortic dissection and vascular labeling issues in CT images. Our semi-automatic annotation LABEL-SAM model is based on [Meta AI](https://segment-anything.com/) to label AD objects in 3D medical images. At the same time, LABEL-SAM is integrated into the 3D slicer software as a plug-and-play plug-in for AD annotation work.
+**LABEL-SAM** is a Annotation model towards solving Aortic dissection and vascular labeling issues in CT images. Our semi-automatic annotation LABEL-SAM model is based on [Meta AI](https://segment-anything.com/) to label AD objects in 3D medical images. At the same time, LABEL-SAM is integrated into the 3D slicer software as a plug-and-play plug-in for AD annotation work.
 
+## Demo Video
+
+[A demonstration of annotation a case from the ImageTBAD](https://youtu.be/kt1WN5BciVg)
+
+
+## License
+
+The models are licensed under the [Apache 2.0 license](./LICENSE). Please refer to our research paper for more details on the models.
