@@ -13,4 +13,5 @@ we will release the code in December ~
 
 ![](/figs/interface.png)
 
-A 3D slicer plugin for interactive and semi-automatic annotation of aortic dissection
+** LABEL-SAM ** is a Annotation model towards solving Aortic dissection and vascular labeling issues in CT images. Our semi-automatic annotation LABEL-SAM model is based on [Meta AI](https://segment-anything.com/) to label AD objects in 3D medical images. At the same time, LABEL-SAM is integrated into the 3D slicer software as a plug-and-play plug-in for AD annotation work.
+
