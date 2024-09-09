@@ -11,6 +11,6 @@ we will release the code in December ~
 
 ## Introduction
 
-![](/figs/interface.jpg)
+![](/figs/interface.png)
 
 A 3D slicer plugin for interactive and semi-automatic annotation of aortic dissection
