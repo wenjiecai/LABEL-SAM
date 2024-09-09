@@ -9,4 +9,8 @@ We are expanding the model's capabilities to enable simultaneous segmentation of
 
 we will release the code in December ~
 
+## Introduction
+
+![](/figs/interface.jpg)
+
 A 3D slicer plugin for interactive and semi-automatic annotation of aortic dissection
