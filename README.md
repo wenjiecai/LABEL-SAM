@@ -5,8 +5,6 @@
 
 This is the official implementation of [LABEL-SAM]().
 
-We are expanding the model's capabilities to enable simultaneous segmentation of multiple AD objects. 
-
 we will release the code in December ~
 
 ## Introduction
