@@ -18,7 +18,7 @@ we will release the code in December ~
 A demonstration of annotation an Aortic Dissection case:
 
 <a href="https://www.youtube.com/watch?v=R3Fzgl1b4JQ">
-  <img src="/figs/YouTube.png" alt="Image 1" width="200"/>
+  <img src="/figs/YouTube.png" alt="Image 1" width="250"/>
 </a>
 <a href="https://www.bilibili.com/video/BV1QXtwepEQA/?vd_source=4eb5fca2d5207ec68d662e71ae2745e3">
   <img src="/figs/bibili.png" alt="Image 2" width="200"/>
