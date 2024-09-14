@@ -17,7 +17,7 @@ we will release the code in December ~
 
 A demonstration of annotation an Aortic Dissection case:
 
-[YouTube](https://www.youtube.com/watch?v=R3Fzgl1b4JQ) or [Bilibili](https://www.bilibili.com/video/BV1QXtwepEQA/?vd_source=4eb5fca2d5207ec68d662e71ae2745e3)
+[![YouTube](https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg)](https://www.youtube.com/watch?v=R3Fzgl1b4JQ) or [Bilibili](https://www.bilibili.com/video/BV1QXtwepEQA/?vd_source=4eb5fca2d5207ec68d662e71ae2745e3)
 
 
 ## License
