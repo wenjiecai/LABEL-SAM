@@ -18,11 +18,11 @@ we will release the code in December ~
 A demonstration of annotation an Aortic Dissection case:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/watch?v=R3Fzgl1b4JQ">
+<a href="https://www.youtube.com/watch?v=R3Fzgl1b4JQ" style="text-decoration: none;">
   <img src="/figs/YouTube.png" alt="Image 1" width="280"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.bilibili.com/video/BV1QXtwepEQA/?vd_source=4eb5fca2d5207ec68d662e71ae2745e3">
+<a href="https://www.bilibili.com/video/BV1QXtwepEQA/?vd_source=4eb5fca2d5207ec68d662e71ae2745e3" style="text-decoration: none;">
   <img src="/figs/bibili.png" alt="Image 2" width="320"/>
 </a>
 
